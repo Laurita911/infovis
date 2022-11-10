@@ -12,3 +12,4 @@ MARTES
 JUEVES
 
 * Observable: [Histograma](https://observablehq.com/d/e2e5300ce09a268e)
+* Histograma: [Histograma_HTML](https://laurita911.github.io/infovis/S2/histograma.html)
