@@ -13,4 +13,5 @@ MARTES
 JUEVES
 
 * Observable (link directo) - Histogramas: [Código Observable](https://observablehq.com/d/e2e5300ce09a268e)
-* Histograma: [Histograma_HTML](https://laurita911.github.io/infovis/S2/histograma.html)
+* Gráficos (Histograma - Tickplot - Lineplot - Área segmentado : [Gráficos](https://laurita911.github.io/infovis/S2/histograma.html)
+--> Este último podría llamarse index.html y al pasar el link accede directamente (no pasa por el readme)
