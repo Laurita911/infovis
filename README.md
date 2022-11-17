@@ -11,7 +11,7 @@ Carpeta Semana 1: [go](https://github.com/laurita911/infovis/tree/main/s1)
 * RawGraphs 2 - Versión HTML con SGV incrustado como imagen
 * Observable
 
-Carpeta Semana 2: [go](https://github.com/laurita911/infovis/tree/main/s2)
+Carpeta Semana 2: [go](https://github.com/laurita911/infovis/tree/main/S2)
 
 * DataSet Week 45 - Who do we spend time with across our lifetimes?
 * DataSet Modificado
