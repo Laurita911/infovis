@@ -20,3 +20,6 @@ Carpeta Semana 2: [go](https://github.com/laurita911/infovis/tree/main/s2)
 * Observable (link directo)
 * Observable (link directo) - Histogramas
 * Gráficos (Histograma - Tickplot - Lineplot - Área segmentado
+
+Carpeta Semana 3: [go](https://github.com/laurita911/infovis/tree/main/s3)
+
